@@ -1,11 +1,14 @@
-# 🎮 Lung Pong Game 🎮
+# 🫁🚬 Lung Pong Game 🫁🚬
+
+## Try here 🎮
+[https://thegoodtroll.github.io/lung-pong-game/]
 
 ## Description
-Welcome to **Pong Game**, a classic arcade-style game inspired by 
+Welcome to the ** Lung Pong Game** in Danish 🇩🇰
 
 ## Creator
 👤 **thegoodtroll**  
-💻 **GitHub:** [thegoodtroll]([https://github.com/thegoodtroll/]
+💻 **GitHub:** [thegoodtroll]([https://github.com/thegoodtroll/])
 
 ## Acknowledgements
 - 🎶 Background song about all the bad things related to smoking rapped in rap, created with **Suno AI**
