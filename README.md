@@ -1,4 +1,4 @@
-# 🫁🚬 Lung Pong Game 🫁🚬
+# 🫁🚬 Lung Pong Game 🚬🫁
 
 ## Try here 🎮
 [https://thegoodtroll.github.io/lung-pong-game/]
