@@ -4,8 +4,8 @@
 Welcome to **Pong Game**, a classic arcade-style game inspired by 
 
 ## Creator
-👤 **snhorndrup**  
-💻 **GitHub:** [snhorndrup]([https://github.com/snhorndrup/]
+👤 **thegoodtroll**  
+💻 **GitHub:** [thegoodtroll]([https://github.com/thegoodtroll/]
 
 ## Acknowledgements
 - 🎶 Background song about all the bad things related to smoking rapped in rap, created with **Suno AI**
