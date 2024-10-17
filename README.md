@@ -4,7 +4,7 @@
 [https://thegoodtroll.github.io/lung-pong-game/]
 
 ## Description
-Welcome to the ** Lung Pong Game** in Danish 🇩🇰
+Welcome to the **Lung Pong Game** in Danish.
 
 ## Creator
 👤 **thegoodtroll**  
