@@ -7,8 +7,8 @@
 Welcome to the **Lung Pong Game** in Danish.
 
 ## Creator
-👤 **thegoodtroll**  
-💻 **GitHub:** [thegoodtroll]([https://github.com/thegoodtroll/])
+👤 **Me**  
+💻 **GitHub:** [thegoodtroll](https://github.com/thegoodtroll) 🧌
 
 ## Acknowledgements
 - 🎶 **Suno AI** for background song about all the bad things related to smoking
