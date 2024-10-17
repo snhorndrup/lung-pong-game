@@ -15,7 +15,7 @@ function showInitialScreen() {
   ctx.font = '48px monospace';
   ctx.fillStyle = 'white';
   ctx.textAlign = 'center';
-  ctx.fillText("LUNGE PONG", canvas.width / 2, canvas.height / 2 - 50);
+  ctx.fillText("LUNG PONG", canvas.width / 2, canvas.height / 2 - 50);
   
   ctx.font = '24px monospace';
   ctx.fillText("Klik for at spille", canvas.width / 2, canvas.height / 2 + 50);
@@ -27,7 +27,7 @@ function showInitialScreen() {
   ctx.fillText("Styr med piletasterne", canvas.width / 2, canvas.height / 2 + 150);
   
   ctx.font = '16px monospace';
-  ctx.fillText("(Af: @_SorenH)", canvas.width / 2, canvas.height / 2 + 250);
+  ctx.fillText("(Af: thegoodtroll)", canvas.width / 2, canvas.height / 2 + 250);
 }
 
 // Function to start the game (initiated after canvas click)
